@@ -4,13 +4,15 @@
   
 </div>
 
-  ###👋&nbsp; Hi! I'm JIWON <br/>
-  I am a student studying with the goal of becoming an <b>information security professional</b>. ✨</br>
+  # 👋&nbsp; Hi! I'm JIWON
+  ### I am a student studying with the goal of becoming an __information security professional.__ ✨
+--------
 
+# &#128293;Stack & Study&#128293;
 
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB??style=flat&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
 </p>
 
 
