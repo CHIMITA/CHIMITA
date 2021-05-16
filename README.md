@@ -5,16 +5,26 @@
 </div>
 
   # 👋&nbsp; Hi! I'm JIWON
-  ### I am a student studying with the goal of becoming an __information security professional.__ ✨
+  ### I am a student studying with the goal of becoming an __information__ __security__ __professional.__ ✨
 --------
 
 # &#128293;Stack & Study&#128293;
 
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
-</p>
-
+<div align=center>
+  <p>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat&logo=Kali Linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white"/>
+    
+  </p>
+</div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIMITA&show_icons=true&title_color=92b9d3&text_color=423d3d&icon_color=c77988&bg_color=DEG,eacfcc,ecf0b2)
