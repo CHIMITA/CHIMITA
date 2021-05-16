@@ -24,7 +24,8 @@
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white"/>
     
   </p>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIMITA&show_icons=true&title_color=92b9d3&text_color=423d3d&icon_color=c77988&bg_color=DEG,eacfcc,ecf0b2)
+
 </div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIMITA&show_icons=true&title_color=92b9d3&text_color=423d3d&icon_color=c77988&bg_color=DEG,eacfcc,ecf0b2)
