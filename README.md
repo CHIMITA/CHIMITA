@@ -10,7 +10,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB??style=flat&logo=appveyor&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB??style=flat&logo=Python&logoColor=white"/></a>&nbsp 
 </p>
 
 
