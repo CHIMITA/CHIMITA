@@ -27,5 +27,8 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIMITA&show_icons=true&title_color=92b9d3&text_color=423d3d&icon_color=c77988&bg_color=DEG,eacfcc,ecf0b2)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHIMITA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </div>
 
