@@ -5,7 +5,6 @@
 </div>
 
   # 👋&nbsp; Hi! I'm JIWON
-  ### I am a student studying with the goal of becoming an __information__ __security__ __professional.__ ✨
 --------
 
 # &#128293;Stack & Study&#128293;
